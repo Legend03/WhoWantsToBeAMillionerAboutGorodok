@@ -12,7 +12,7 @@ let sound = new Audio();
 const requestData = async () => {
   try {
     const response = await fetch(
-      "https://api.jsonbin.io/v3/b/6372c37d65b57a31e6b7a7e2",
+      "https://api.jsonbin.io/v3/b/63a15267dfc68e59d56cb0a7",
       {
         headers: {
           "Content-Type": "application/json",
